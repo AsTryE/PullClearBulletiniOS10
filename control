@@ -1,0 +1,9 @@
+Package: com.tangxianhai.PullClearBulletin
+Name: PullClearBulletiniOS10
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Pull to clear all bulletin.
+Maintainer: tangxianhai
+Author: tangxianhai
+Section: Tweaks
